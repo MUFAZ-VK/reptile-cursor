@@ -16,7 +16,7 @@ A visually engaging **GSAP-based scroll animation** featuring an interactive rep
 
 ## 🚀 Live Preview
 
-[🔗 Click here to see it live](https://mufaz-vk/github.io/reptile-cursor)  
+[🔗 Click here to see it live](https://mufaz-vk.github.io/reptile-cursor)  
 (*Replace with your live link when deployed*)
 
 ---
