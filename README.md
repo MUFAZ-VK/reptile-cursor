@@ -2,6 +2,8 @@
 
 A visually engaging **GSAP-based scroll animation** featuring an interactive reptile-themed cursor and animated elements that slide, rotate, and morph as you scroll. Built for that ultimate cinematic 🍊🥤 beverage-inspired vibe with a Gen Z twist!
 
+![demo image](demo.png)
+
 ---
 
 ## 🎯 Features
