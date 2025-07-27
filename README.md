@@ -8,7 +8,6 @@ A visually engaging **GSAP-based scroll animation** featuring an interactive rep
 
 - 🎯 Interactive reptile-style custom cursor  
 - 🔄 Smooth scroll-triggered animations using [GSAP](https://greensock.com/gsap/) + ScrollTrigger  
-- 🧃 Animated fruits (lemons, oranges), bottles (Fanta, CocaCola, Pepsi)  
 - 💫 Timeline-controlled transitions and transformations  
 - ✨ Fully customizable and responsive
 
